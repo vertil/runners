@@ -1,0 +1,448 @@
+[
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\main.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/main.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\structs.hxx"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/structs.hxx"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\engine.hxx"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/engine.hxx"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\runner.hxx"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/runner.hxx"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\animation.hxx"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/animation.hxx"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\numbers.hxx"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/numbers.hxx"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-std=gnu++20",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-isystemC:/msys/mingw64/include/SDL2",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\myimgui.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/myimgui.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/gcc.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-Dglad_EXPORTS",
+        "-x",
+        "c",
+        "F:\\test\\runners-main\\rungame\\src\\glad\\glad.c"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/glad/glad.c"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_demo.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_demo.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_draw.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_draw.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_impl_opengl3.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_impl_opengl3.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_impl_sdl.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_impl_sdl.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_stdlib.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_stdlib.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_tables.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_tables.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_widgets.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_widgets.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imconfig.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imconfig.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_impl_opengl3.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_impl_opengl3.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_impl_sdl.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_impl_sdl.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_internal.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_internal.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imgui_stdlib.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imgui_stdlib.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imstb_rectpack.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imstb_rectpack.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imstb_textedit.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imstb_textedit.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-IF:/test/runners-main/rungame/src/imgui",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\imgui\\imstb_truetype.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/imgui/imstb_truetype.h"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-Dlodepng_EXPORTS",
+        "-x",
+        "c++",
+        "F:\\test\\runners-main\\rungame\\src\\lodepng.cpp"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/lodepng.cpp"
+},
+{
+    "arguments": [
+        "C:/msys/mingw64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-O3",
+        "-DNDEBUG",
+        "-Dlodepng_EXPORTS",
+        "-x",
+        "c++-header",
+        "F:\\test\\runners-main\\rungame\\src\\lodepng.h"
+    ],
+    "directory": "F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Release",
+    "file": "F:/test/runners-main/rungame/src/lodepng.h"
+}
+]

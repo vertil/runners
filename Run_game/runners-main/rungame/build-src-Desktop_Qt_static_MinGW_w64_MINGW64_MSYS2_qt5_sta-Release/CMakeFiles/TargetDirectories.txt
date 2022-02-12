@@ -1,0 +1,8 @@
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/CMakeFiles/glad.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/CMakeFiles/lodepng.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/CMakeFiles/game_run.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/CMakeFiles/edit_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/CMakeFiles/rebuild_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/imgui/CMakeFiles/imgui.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/imgui/CMakeFiles/edit_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_static_MinGW_w64_MINGW64_MSYS2_qt5_sta-Release/imgui/CMakeFiles/rebuild_cache.dir

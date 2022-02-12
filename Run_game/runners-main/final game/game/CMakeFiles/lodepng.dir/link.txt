@@ -1,0 +1,3 @@
+C:\msys\mingw64\bin\cmake.exe -E rm -f CMakeFiles\lodepng.dir/objects.a
+C:\msys\mingw64\bin\ar.exe qc CMakeFiles\lodepng.dir/objects.a @CMakeFiles\lodepng.dir\objects1.rsp
+C:\msys\mingw64\bin\g++.exe -O3 -DNDEBUG -shared -o liblodepng.dll -Wl,--out-implib,liblodepng.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\lodepng.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\lodepng.dir\linklibs.rsp

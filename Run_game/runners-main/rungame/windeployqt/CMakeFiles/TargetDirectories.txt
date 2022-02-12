@@ -1,0 +1,8 @@
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/glad.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/lodepng.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/game_run.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/edit_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/rebuild_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/imgui/CMakeFiles/imgui.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/imgui/CMakeFiles/edit_cache.dir
+F:/test/runners-main/rungame/build-src-Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/imgui/CMakeFiles/rebuild_cache.dir
